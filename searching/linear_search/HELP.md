@@ -5,7 +5,8 @@
 - O(n) - Linear time complexity
 
 **Memory complexity:**
-- O(1) - Constant space complexity
+- O(1) - Iterative
+- O(n) - Recursive
 
 **Disadvantages:**
 - Slow for large collections
