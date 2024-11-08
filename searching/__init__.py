@@ -6,3 +6,4 @@ str_data: List[str] = ["apple", "banana", "cherry", "date", "elderberry", "fig",
                        "mango", "nectarine", "orange", "papaya", "quince", "raspberry", "strawberry", "tangerine",
                        "ugli",
                        "vanilla", "watermelon", "ximenia", "yellow watermelon", "zucchini"]
+sorted_data: List[int] = sorted(data)
